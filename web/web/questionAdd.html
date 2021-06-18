@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <title>单项选择题试题上传</title>
+</head>
+<body>
+<form action="QuestionAdd">
+<table align="center" style="background-color: aliceblue; color: deepskyblue" border="2">
+  <tr>
+    <td>试题内容：（以问号结尾 )</td>
+    <td><label>
+      <textarea rows="3" cols="100" name="question"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td><label>
+      <textarea rows="3" cols="20" name="answerA"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>B</td>
+    <td><label>
+      <textarea rows="3" cols="20" name="answerB"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td><label>
+      <textarea rows="3" cols="20" name="answerC"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>D</td>
+    <td><label>
+      <textarea rows="3" cols="20" name="answerD"></textarea>
+    </label></td>
+  </tr>
+  <tr>
+    <td>正确答案</td>
+    <td><label>A
+      <input type="radio" name="answer" value="A">
+    B
+      <input type="radio" name="answer" value="B">
+    C
+      <input type="radio" name="answer" value="C">
+    D
+      <input type="radio" name="answer" value="D">
+    </label></td>
+  </tr>
+  <tr>
+    <td><input type="submit" value="确认上传"></td>
+  </tr>
+</table>
+</form>
+</body>
+</html>
