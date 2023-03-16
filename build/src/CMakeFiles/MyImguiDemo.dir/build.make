@@ -73,150 +73,150 @@ src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj: src/CMakeFiles/MyImguiDem
 src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj: D:/cppproject/MyImguiDemo/src/class/GGL_ZONE.cpp
 src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp > CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp > CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp -o CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp -o CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: D:/cppproject/MyImguiDemo/src/class/MessageWindow.cpp
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp > CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp > CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp -o CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp -o CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_demo.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_draw.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_impl_glfw.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_impl_vulkan.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_tables.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_widgets.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp > CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.s
 
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: D:/cppproject/MyImguiDemo/src/main.cpp
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\main.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\main.cpp.obj -c D:\cppproject\MyImguiDemo\src\main.cpp
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\main.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\main.cpp.obj -c D:\cppproject\MyImguiDemo\src\main.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/main.cpp.i"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\main.cpp > CMakeFiles\MyImguiDemo.dir\main.cpp.i
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\main.cpp > CMakeFiles\MyImguiDemo.dir\main.cpp.i
 
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/main.cpp.s"
-	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\llvm-mingw\llvm-mingw-20220906-ucrt-x86_64\bin\clang++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\main.cpp -o CMakeFiles\MyImguiDemo.dir\main.cpp.s
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\main.cpp -o CMakeFiles\MyImguiDemo.dir\main.cpp.s
 
 # Object files for target MyImguiDemo
 MyImguiDemo_OBJECTS = \

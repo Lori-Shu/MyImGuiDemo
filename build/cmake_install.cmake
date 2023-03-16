@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/program/llvm-mingw/llvm-mingw-20220906-ucrt-x86_64/bin/llvm-objdump.exe")
+  set(CMAKE_OBJDUMP "D:/program/MinGWDevKit/mingw64/bin/objdump.exe")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)

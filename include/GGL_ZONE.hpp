@@ -11,6 +11,9 @@ namespace mystd{
      void renderWindow();
      MyTextureData& getMyTextureDataByName(const char* name);
      void removeAllTexture();
+     void renderMenuBar();
+     void renderTab();
+     void renderTable();
 
     private:
      std::unordered_map<const char*, MyTextureData> imageMap;
