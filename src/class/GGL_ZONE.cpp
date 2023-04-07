@@ -87,7 +87,6 @@ void GGL_ZONE::renderTab() {
   if(isRenderTable){
   renderTable();
   }
-
   ImGui::TabItemButton("音乐");
   ImGui::TabItemButton("视频");
   ImGui::EndTabBar();

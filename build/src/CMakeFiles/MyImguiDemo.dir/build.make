@@ -83,11 +83,26 @@ src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.s"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\GGL_ZONE.cpp -o CMakeFiles\MyImguiDemo.dir\class\GGL_ZONE.cpp.s
 
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj: D:/cppproject/MyImguiDemo/src/class/HttpSender.cpp
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj"
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\HttpSender.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\HttpSender.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\HttpSender.cpp
+
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.i"
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\cppproject\MyImguiDemo\src\class\HttpSender.cpp > CMakeFiles\MyImguiDemo.dir\class\HttpSender.cpp.i
+
+src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.s"
+	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\cppproject\MyImguiDemo\src\class\HttpSender.cpp -o CMakeFiles\MyImguiDemo.dir\class\HttpSender.cpp.s
+
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flags.make
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: D:/cppproject/MyImguiDemo/src/class/MessageWindow.cpp
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\class\MessageWindow.cpp.obj -c D:\cppproject\MyImguiDemo\src\class\MessageWindow.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.i: cmake_force
@@ -102,7 +117,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/My
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.i: cmake_force
@@ -117,7 +132,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFil
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_demo.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_demo.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_demo.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.i: cmake_force
@@ -132,7 +147,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFil
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_draw.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_draw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_draw.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_draw.cpp.i: cmake_force
@@ -147,7 +162,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMa
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_impl_glfw.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_glfw.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_glfw.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_glfw.cpp.i: cmake_force
@@ -162,7 +177,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/C
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_impl_vulkan.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_impl_vulkan.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_impl_vulkan.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_impl_vulkan.cpp.i: cmake_force
@@ -177,7 +192,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeF
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_tables.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_tables.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_tables.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_tables.cpp.i: cmake_force
@@ -192,7 +207,7 @@ src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMake
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: D:/cppproject/MyImguiDemo/src/imguisourcefiles/imgui_widgets.cpp
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\imguisourcefiles\imgui_widgets.cpp.obj -c D:\cppproject\MyImguiDemo\src\imguisourcefiles\imgui_widgets.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_widgets.cpp.i: cmake_force
@@ -207,7 +222,7 @@ src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/flag
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/includes_CXX.rsp
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: D:/cppproject/MyImguiDemo/src/main.cpp
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj: src/CMakeFiles/MyImguiDemo.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj"
 	cd /d D:\cppproject\MyImguiDemo\build\src && D:\program\MinGWDevKit\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT src/CMakeFiles/MyImguiDemo.dir/main.cpp.obj -MF CMakeFiles\MyImguiDemo.dir\main.cpp.obj.d -o CMakeFiles\MyImguiDemo.dir\main.cpp.obj -c D:\cppproject\MyImguiDemo\src\main.cpp
 
 src/CMakeFiles/MyImguiDemo.dir/main.cpp.i: cmake_force
@@ -221,6 +236,7 @@ src/CMakeFiles/MyImguiDemo.dir/main.cpp.s: cmake_force
 # Object files for target MyImguiDemo
 MyImguiDemo_OBJECTS = \
 "CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj" \
+"CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj" \
 "CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj" \
 "CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj" \
 "CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj" \
@@ -235,6 +251,7 @@ MyImguiDemo_OBJECTS = \
 MyImguiDemo_EXTERNAL_OBJECTS =
 
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj
+D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui_demo.cpp.obj
@@ -248,7 +265,7 @@ D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/bu
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/linkLibs.rsp
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/objects1
 D:/cppproject/MyImguiDemo/bin/MyImguiDemo.exe: src/CMakeFiles/MyImguiDemo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable D:\cppproject\MyImguiDemo\bin\MyImguiDemo.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\cppproject\MyImguiDemo\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable D:\cppproject\MyImguiDemo\bin\MyImguiDemo.exe"
 	cd /d D:\cppproject\MyImguiDemo\build\src && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\MyImguiDemo.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

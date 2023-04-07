@@ -30,6 +30,7 @@
 #include <vector>
 
 #include "GGL_ZONE.hpp"
+#include"HttpSender.h"
 
 // [Win32] Our example includes a copy of glfw3.lib pre-compiled with VS2010 to
 // maximize ease of testing and compatibility with old VS compilers. To link
@@ -635,7 +636,8 @@ static void glfw_error_callback(int error, const char* description) {
 }
 
 int main(int, char**) {
-  // Setup GLFW window
+
+      // Setup GLFW window
   glfwSetErrorCallback(glfw_error_callback);
   if (!glfwInit()) return 1;
 

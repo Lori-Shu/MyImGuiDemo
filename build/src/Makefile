@@ -153,6 +153,30 @@ class/GGL_ZONE.cpp.s:
 	cd /d D:\cppproject\MyImguiDemo\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\MyImguiDemo.dir\build.make src/CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.s
 .PHONY : class/GGL_ZONE.cpp.s
 
+class/HttpSender.obj: class/HttpSender.cpp.obj
+.PHONY : class/HttpSender.obj
+
+# target to build an object file
+class/HttpSender.cpp.obj:
+	cd /d D:\cppproject\MyImguiDemo\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\MyImguiDemo.dir\build.make src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj
+.PHONY : class/HttpSender.cpp.obj
+
+class/HttpSender.i: class/HttpSender.cpp.i
+.PHONY : class/HttpSender.i
+
+# target to preprocess a source file
+class/HttpSender.cpp.i:
+	cd /d D:\cppproject\MyImguiDemo\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\MyImguiDemo.dir\build.make src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.i
+.PHONY : class/HttpSender.cpp.i
+
+class/HttpSender.s: class/HttpSender.cpp.s
+.PHONY : class/HttpSender.s
+
+# target to generate assembly for a file
+class/HttpSender.cpp.s:
+	cd /d D:\cppproject\MyImguiDemo\build && $(MAKE) $(MAKESILENT) -f src\CMakeFiles\MyImguiDemo.dir\build.make src/CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.s
+.PHONY : class/HttpSender.cpp.s
+
 class/MessageWindow.obj: class/MessageWindow.cpp.obj
 .PHONY : class/MessageWindow.obj
 
@@ -381,6 +405,9 @@ help:
 	@echo ... class/GGL_ZONE.obj
 	@echo ... class/GGL_ZONE.i
 	@echo ... class/GGL_ZONE.s
+	@echo ... class/HttpSender.obj
+	@echo ... class/HttpSender.i
+	@echo ... class/HttpSender.s
 	@echo ... class/MessageWindow.obj
 	@echo ... class/MessageWindow.i
 	@echo ... class/MessageWindow.s

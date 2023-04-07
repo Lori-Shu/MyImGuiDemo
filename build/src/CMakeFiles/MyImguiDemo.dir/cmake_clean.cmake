@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj"
   "CMakeFiles/MyImguiDemo.dir/class/GGL_ZONE.cpp.obj.d"
+  "CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj"
+  "CMakeFiles/MyImguiDemo.dir/class/HttpSender.cpp.obj.d"
   "CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj"
   "CMakeFiles/MyImguiDemo.dir/class/MessageWindow.cpp.obj.d"
   "CMakeFiles/MyImguiDemo.dir/imguisourcefiles/imgui.cpp.obj"

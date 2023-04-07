@@ -10,11 +10,10 @@ file(GLOB sourcecppfiles
     "${PROJECT_SOURCE_DIR}/src/imguisourcefiles/*.cpp"
 )
 
-
 set(linkdir "D:/cppproject/c项目/dependencies/glfw-3.3.8.bin.WIN64/lib-mingw-w64" "D:/program/Vulkan/Lib" "${PROJECT_SOURCE_DIR}/lib")
 
 link_directories(${linkdir})
 
 add_executable(${PROJECT_NAME} ${sourcecppfiles})
 
-target_link_libraries(${PROJECT_NAME} glfw3 vulkan-1)
+target_link_libraries(${PROJECT_NAME} glfw3 vulkan-1 ws2_32)
